@@ -3,7 +3,7 @@
 <h3 align="center">Cybersecurity Student | Former Network Engineer | Ottawa, Ontario 🇨🇦</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prabhjeet-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/prabhjeet-singh-cyber"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Ottawa-Canada-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-SOC%20Analyst-brightgreen?style=for-the-badge"/>
 </p>
